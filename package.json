@@ -1,0 +1,12 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "A simple Node.js app",
+  "main": "node.js",
+  "scripts": {
+    "start": "node node.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {}
+}
